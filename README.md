@@ -6,9 +6,9 @@ This project is a simple implementation of the classic game Tic Tac Toe using HT
 
 The project consists of:
 
-- An HTML file (index.html) that sets up the game board and user interface
-- A CSS file (task2.css) that styles the game board and user interface
-- A JavaScript file (task2.js) that handles game logic, player turns, and win conditions
+- An HTML file (task3.html) that sets up the game board and user interface
+- A CSS file (task3.css) that styles the game board and user interface
+- A JavaScript file (task3.js) that handles game logic, player turns, and win conditions
 
 The game features:
 
